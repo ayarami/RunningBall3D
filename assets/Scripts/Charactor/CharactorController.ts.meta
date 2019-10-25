@@ -1,0 +1,17 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "3f98773b-3c8e-4362-9bd0-6ce5a3460c48",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Scripts/Charactor/CharactorController.ts",
+    "importAsPlugin": false
+  }
+}

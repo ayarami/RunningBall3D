@@ -1,0 +1,17 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "a62b3b87-540d-4aa8-82c0-3a44ef7df9fe",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Scripts/Plane/SubPlane.ts",
+    "importAsPlugin": false
+  }
+}

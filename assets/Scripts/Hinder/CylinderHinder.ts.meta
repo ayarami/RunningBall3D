@@ -1,0 +1,17 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "2a60398b-c15b-456b-a3ac-ca2e4e271bfe",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Scripts/Hinder/CylinderHinder.ts",
+    "importAsPlugin": false
+  }
+}

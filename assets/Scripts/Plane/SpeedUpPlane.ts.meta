@@ -1,0 +1,17 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "ea03a60a-cffd-4955-8bec-bafab18e84b6",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Scripts/Plane/SpeedUpPlane.ts",
+    "importAsPlugin": false
+  }
+}

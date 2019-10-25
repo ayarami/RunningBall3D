@@ -1,0 +1,17 @@
+{
+  "ver": "1.0.0",
+  "importer": "audio-clip",
+  "imported": true,
+  "uuid": "b30432a8-fd54-46e9-997c-34a2f864b223",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".mp3",
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "downloadMode": 0
+  }
+}

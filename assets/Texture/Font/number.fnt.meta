@@ -1,0 +1,135 @@
+{
+  "ver": "1.0.4",
+  "importer": "bitmap-font",
+  "imported": true,
+  "uuid": "0627b13e-f240-4b7c-85aa-a2c39287c6ac",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "_fntConfig": {
+      "commonHeight": 40,
+      "fontSize": 40,
+      "atlasName": "number.png",
+      "fontDefDictionary": {
+        "48": {
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 62,
+            "height": 65
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 62
+        },
+        "49": {
+          "rect": {
+            "x": 47,
+            "y": 134,
+            "width": 40,
+            "height": 64
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 40
+        },
+        "50": {
+          "rect": {
+            "x": 62,
+            "y": 0,
+            "width": 55,
+            "height": 65
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 55
+        },
+        "51": {
+          "rect": {
+            "x": 0,
+            "y": 65,
+            "width": 53,
+            "height": 69
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 53
+        },
+        "52": {
+          "rect": {
+            "x": 167,
+            "y": 61,
+            "width": 49,
+            "height": 64
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 49
+        },
+        "53": {
+          "rect": {
+            "x": 62,
+            "y": 65,
+            "width": 53,
+            "height": 65
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 53
+        },
+        "54": {
+          "rect": {
+            "x": 117,
+            "y": 64,
+            "width": 48,
+            "height": 63
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 48
+        },
+        "55": {
+          "rect": {
+            "x": 167,
+            "y": 0,
+            "width": 52,
+            "height": 61
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 52
+        },
+        "56": {
+          "rect": {
+            "x": 117,
+            "y": 0,
+            "width": 50,
+            "height": 64
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 50
+        },
+        "57": {
+          "rect": {
+            "x": 0,
+            "y": 134,
+            "width": 47,
+            "height": 64
+          },
+          "xOffset": 0,
+          "yOffset": 0,
+          "xAdvance": 47
+        }
+      },
+      "kerningDict": {}
+    },
+    "fontSize": 40,
+    "textureUuid": "16636142-d193-4b3a-827d-ddfdda818344"
+  }
+}

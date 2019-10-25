@@ -1,0 +1,43 @@
+{
+  "ver": "1.0.16",
+  "importer": "image",
+  "imported": true,
+  "uuid": "0d202db6-4491-437d-b6da-833438eb98f3",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "texture",
+      "id": "6c48a",
+      "displayName": "ReducePlane",
+      "uuid": "0d202db6-4491-437d-b6da-833438eb98f3@6c48a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "0d202db6-4491-437d-b6da-833438eb98f3"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "0d202db6-4491-437d-b6da-833438eb98f3@6c48a"
+  }
+}

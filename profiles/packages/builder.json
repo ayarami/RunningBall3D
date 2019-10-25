@@ -1,0 +1,329 @@
+{
+  "common": {
+    "taskName": "wechatgame",
+    "platform": "wechatgame",
+    "scenes": [
+      {
+        "url": "db://assets/Scene/Start.scene",
+        "uuid": "2620d1da-e084-4d3a-bc2b-942ed5f9ae3f"
+      },
+      {
+        "url": "db://assets/Scene/Level/Level1.scene",
+        "uuid": "86de5a32-5ff9-4de2-9de0-7aef00c151ea"
+      },
+      {
+        "url": "db://assets/Scene/Level/Level2.scene",
+        "uuid": "a4bdba64-1ada-4f56-a89a-22654202bd85"
+      },
+      {
+        "url": "db://assets/Scene/Level/Level3.scene",
+        "uuid": "f5242a68-832e-4e2e-9b37-8b0c7d33714f"
+      },
+      {
+        "url": "db://assets/Scene/Level/Level4.scene",
+        "uuid": "adeea697-94ad-4685-9408-72dfd2c25318"
+      },
+      {
+        "url": "db://assets/Scene/Level/Level5.scene",
+        "uuid": "4f7fed52-4e3a-4451-b100-19e0865490e8"
+      },
+      {
+        "url": "db://assets/Scene/Level/Level6.scene",
+        "uuid": "1cae5c46-b83b-437d-bdcd-145f2507712f"
+      }
+    ],
+    "orientation": "portrait",
+    "debug": true,
+    "sourceMaps": false,
+    "appid": "wxa73be54be6dafecf",
+    "remoteServerAddress": "",
+    "md5Cache": true
+  },
+  "wechatgame": {
+    "orientation": "portrait",
+    "appid": "wxa73be54be6dafecf",
+    "remoteServerAddress": ""
+  },
+  "BuildTaskManager": {
+    "queue": [
+      {
+        "id": "Debug",
+        "state": "success",
+        "progress": 1,
+        "options": {
+          "appid": "wxa73be54be6dafecf",
+          "buildPath": "build",
+          "compressTexture": true,
+          "debug": true,
+          "designResolution": {
+            "width": 960,
+            "height": 640,
+            "fitWidth": true,
+            "fitHeight": false
+          },
+          "forceCombileEngine": false,
+          "includeModules": [
+            "base",
+            "gfx-webgl",
+            "gfx-webgl2",
+            "ui",
+            "particle",
+            "physics-cannon",
+            "physics-framework",
+            "audio",
+            "tween",
+            "terrain"
+          ],
+          "inlineSpriteFrames": false,
+          "md5Cache": false,
+          "mergeStartScene": false,
+          "name": "RunningBall",
+          "orientation": "portrait",
+          "packAutoAtlas": true,
+          "platform": "wechatgame",
+          "remoteServerAddress": "",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/Start.scene",
+              "uuid": "2620d1da-e084-4d3a-bc2b-942ed5f9ae3f"
+            },
+            {
+              "url": "db://assets/Scene/Level/Level1.scene",
+              "uuid": "86de5a32-5ff9-4de2-9de0-7aef00c151ea"
+            },
+            {
+              "url": "db://assets/Scene/Level/Level2.scene",
+              "uuid": "a4bdba64-1ada-4f56-a89a-22654202bd85"
+            },
+            {
+              "url": "db://assets/Scene/Level/Level3.scene",
+              "uuid": "f5242a68-832e-4e2e-9b37-8b0c7d33714f"
+            }
+          ],
+          "sourceMaps": true,
+          "startScene": "2620d1da-e084-4d3a-bc2b-942ed5f9ae3f",
+          "subContext": "",
+          "taskName": "Debug"
+        },
+        "message": "build sucess in 3964 ms!"
+      },
+      {
+        "id": "Release",
+        "state": "success",
+        "progress": 1,
+        "options": {
+          "appid": "wxa73be54be6dafecf",
+          "buildPath": "build",
+          "compressTexture": true,
+          "debug": false,
+          "designResolution": {
+            "width": 960,
+            "height": 640,
+            "fitWidth": true,
+            "fitHeight": false
+          },
+          "forceCombileEngine": false,
+          "includeModules": [
+            "base",
+            "gfx-webgl",
+            "gfx-webgl2",
+            "ui",
+            "particle",
+            "physics-cannon",
+            "physics-framework",
+            "audio",
+            "tween",
+            "terrain"
+          ],
+          "inlineSpriteFrames": false,
+          "md5Cache": false,
+          "mergeStartScene": false,
+          "name": "RunningBall",
+          "orientation": "portrait",
+          "packAutoAtlas": true,
+          "platform": "wechatgame",
+          "remoteServerAddress": "",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/Start.scene",
+              "uuid": "2620d1da-e084-4d3a-bc2b-942ed5f9ae3f"
+            },
+            {
+              "url": "db://assets/Scene/Level/Level1.scene",
+              "uuid": "86de5a32-5ff9-4de2-9de0-7aef00c151ea"
+            },
+            {
+              "url": "db://assets/Scene/Level/Level2.scene",
+              "uuid": "a4bdba64-1ada-4f56-a89a-22654202bd85"
+            },
+            {
+              "url": "db://assets/Scene/Level/Level3.scene",
+              "uuid": "f5242a68-832e-4e2e-9b37-8b0c7d33714f"
+            }
+          ],
+          "sourceMaps": false,
+          "startScene": "2620d1da-e084-4d3a-bc2b-942ed5f9ae3f",
+          "subContext": "",
+          "taskName": "Release"
+        },
+        "message": "build sucess in 5865 ms!"
+      },
+      {
+        "id": "H5_release",
+        "state": "success",
+        "progress": 1,
+        "options": {
+          "appid": "wxa73be54be6dafecf",
+          "buildPath": "build",
+          "compressTexture": true,
+          "debug": false,
+          "embedWebDebugger": false,
+          "forceCombileEngine": false,
+          "inlineSpriteFrames": false,
+          "md5Cache": false,
+          "mergeStartScene": false,
+          "name": "RunningBall",
+          "orientation": "portrait",
+          "packAutoAtlas": true,
+          "platform": "web-mobile",
+          "remoteServerAddress": "",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/Start.scene",
+              "uuid": "2620d1da-e084-4d3a-bc2b-942ed5f9ae3f"
+            },
+            {
+              "url": "db://assets/Scene/Level/Level1.scene",
+              "uuid": "86de5a32-5ff9-4de2-9de0-7aef00c151ea"
+            },
+            {
+              "url": "db://assets/Scene/Level/Level2.scene",
+              "uuid": "a4bdba64-1ada-4f56-a89a-22654202bd85"
+            },
+            {
+              "url": "db://assets/Scene/Level/Level3.scene",
+              "uuid": "f5242a68-832e-4e2e-9b37-8b0c7d33714f"
+            },
+            {
+              "url": "db://assets/Scene/Level/Level4.scene",
+              "uuid": "adeea697-94ad-4685-9408-72dfd2c25318"
+            },
+            {
+              "url": "db://assets/Scene/Level/Level5.scene",
+              "uuid": "4f7fed52-4e3a-4451-b100-19e0865490e8"
+            },
+            {
+              "url": "db://assets/Scene/Level/Level6.scene",
+              "uuid": "1cae5c46-b83b-437d-bdcd-145f2507712f"
+            }
+          ],
+          "sourceMaps": false,
+          "startScene": "2620d1da-e084-4d3a-bc2b-942ed5f9ae3f",
+          "subContext": "",
+          "taskName": "H5_release",
+          "includeModules": [
+            "base",
+            "gfx-webgl",
+            "gfx-webgl2",
+            "ui",
+            "particle",
+            "physics-cannon",
+            "physics-framework",
+            "audio",
+            "tween",
+            "terrain"
+          ],
+          "designResolution": {
+            "width": 640,
+            "height": 960,
+            "fitWidth": true,
+            "fitHeight": false
+          }
+        },
+        "message": "build sucess in 38543 ms!"
+      },
+      {
+        "id": "wechatgame",
+        "state": "success",
+        "progress": 1,
+        "options": {
+          "appid": "wxa73be54be6dafecf",
+          "buildPath": "build",
+          "compressTexture": true,
+          "debug": true,
+          "designResolution": {
+            "width": 960,
+            "height": 640,
+            "fitWidth": true,
+            "fitHeight": false
+          },
+          "embedWebDebugger": false,
+          "forceCombileEngine": false,
+          "includeModules": [
+            "base",
+            "gfx-webgl",
+            "gfx-webgl2",
+            "ui",
+            "particle",
+            "physics-cannon",
+            "physics-framework",
+            "audio",
+            "tween",
+            "terrain"
+          ],
+          "inlineSpriteFrames": false,
+          "md5Cache": true,
+          "mergeStartScene": false,
+          "name": "RunningBall",
+          "orientation": "portrait",
+          "packAutoAtlas": true,
+          "platform": "wechatgame",
+          "remoteServerAddress": "",
+          "scenes": [
+            {
+              "url": "db://assets/Scene/Start.scene",
+              "uuid": "2620d1da-e084-4d3a-bc2b-942ed5f9ae3f"
+            },
+            {
+              "url": "db://assets/Scene/Level/Level1.scene",
+              "uuid": "86de5a32-5ff9-4de2-9de0-7aef00c151ea"
+            },
+            {
+              "url": "db://assets/Scene/Level/Level2.scene",
+              "uuid": "de76c447-11fe-4e9f-b5f9-02b30b86da5f"
+            },
+            {
+              "url": "db://assets/Scene/Level/Level3.scene",
+              "uuid": "07836b54-645f-41d4-b340-a18d5e2bd0ed"
+            },
+            {
+              "url": "db://assets/Scene/Level/Level4.scene",
+              "uuid": "a4bdba64-1ada-4f56-a89a-22654202bd85"
+            },
+            {
+              "url": "db://assets/Scene/Level/Level5.scene",
+              "uuid": "9109be64-bf2b-4d91-b82d-37c57b8090a7"
+            },
+            {
+              "url": "db://assets/Scene/Level/Level6.scene",
+              "uuid": "189caf20-6cbd-4e99-b2bd-8015e5ae8deb"
+            },
+            {
+              "url": "db://assets/Scene/Level/Level7.scene",
+              "uuid": "f5242a68-832e-4e2e-9b37-8b0c7d33714f"
+            },
+            {
+              "url": "db://assets/Scene/Level/DefaultLevel/Level.scene",
+              "uuid": "e0d1b2ae-985b-48b0-b930-7107a83f7065"
+            }
+          ],
+          "sourceMaps": false,
+          "startScene": "2620d1da-e084-4d3a-bc2b-942ed5f9ae3f",
+          "subContext": "",
+          "taskName": "wechatgame"
+        },
+        "message": "build sucess in 2535 ms!"
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "e60516df-bcfc-4c97-b0ce-1f08e11f8b0a",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Scripts/Charactor/CharactorCamera.ts",
+    "importAsPlugin": false
+  }
+}

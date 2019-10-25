@@ -1,0 +1,15 @@
+info face="微软雅黑" size=40 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1 outline=0
+common lineHeight=40 base=26 scaleW=211 scaleH=201 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="timeNumber.png"
+chars count=11
+char id=48   x=0    y=134     width=49    height=67    xoffset=0     yoffset=0     xadvance=49    page=0  chnl=15
+char id=49   x=49    y=134     width=44    height=67    xoffset=0     yoffset=0     xadvance=44    page=0  chnl=15
+char id=39   x=93    y=134     width=31    height=67    xoffset=0     yoffset=0     xadvance=31    page=0  chnl=15
+char id=50   x=0    y=0     width=58    height=67    xoffset=0     yoffset=0     xadvance=58    page=0  chnl=15
+char id=51   x=51    y=67     width=51    height=67    xoffset=0     yoffset=0     xadvance=51    page=0  chnl=15
+char id=52   x=58    y=0     width=51    height=67    xoffset=0     yoffset=0     xadvance=51    page=0  chnl=15
+char id=53   x=160    y=0     width=51    height=67    xoffset=0     yoffset=0     xadvance=51    page=0  chnl=15
+char id=54   x=160    y=67     width=51    height=67    xoffset=0     yoffset=0     xadvance=51    page=0  chnl=15
+char id=55   x=102    y=67     width=51    height=67    xoffset=0     yoffset=0     xadvance=51    page=0  chnl=15
+char id=56   x=109    y=0     width=51    height=67    xoffset=0     yoffset=0     xadvance=51    page=0  chnl=15
+char id=57   x=0    y=67     width=51    height=67    xoffset=0     yoffset=0     xadvance=51    page=0  chnl=15

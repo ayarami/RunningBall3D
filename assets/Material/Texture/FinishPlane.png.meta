@@ -1,0 +1,43 @@
+{
+  "ver": "1.0.16",
+  "importer": "image",
+  "imported": true,
+  "uuid": "e4bcc377-170d-4cb1-a49d-7f8315dca66f",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "texture",
+      "id": "6c48a",
+      "displayName": "FinishPlane",
+      "uuid": "e4bcc377-170d-4cb1-a49d-7f8315dca66f@6c48a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e4bcc377-170d-4cb1-a49d-7f8315dca66f"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "e4bcc377-170d-4cb1-a49d-7f8315dca66f@6c48a"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "b5ce39b6-e52c-4f3a-b3bb-8b5637b25ffb",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Scripts/Platform/Wechat/Wechat.ts",
+    "importAsPlugin": false
+  }
+}

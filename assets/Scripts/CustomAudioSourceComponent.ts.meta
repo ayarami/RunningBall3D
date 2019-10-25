@@ -1,0 +1,17 @@
+{
+  "ver": "1.0.844",
+  "importer": "typescript",
+  "imported": true,
+  "uuid": "aeb59fae-a190-45c8-b1ae-666384ab0fb0",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".js"
+  ],
+  "subMetas": {},
+  "userData": {
+    "moduleId": "project:///assets/Scripts/CustomAudioSourceComponent.ts",
+    "importAsPlugin": false
+  }
+}

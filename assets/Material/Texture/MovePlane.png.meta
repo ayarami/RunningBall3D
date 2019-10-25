@@ -1,0 +1,43 @@
+{
+  "ver": "1.0.16",
+  "importer": "image",
+  "imported": true,
+  "uuid": "da71181d-dc17-4b71-833a-72333a2ecd67",
+  "name": "",
+  "id": "",
+  "displayName": "",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "name": "texture",
+      "id": "6c48a",
+      "displayName": "MovePlane",
+      "uuid": "da71181d-dc17-4b71-833a-72333a2ecd67@6c48a",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "da71181d-dc17-4b71-833a-72333a2ecd67"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "da71181d-dc17-4b71-833a-72333a2ecd67@6c48a"
+  }
+}
